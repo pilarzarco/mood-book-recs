@@ -31,3 +31,6 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Qdrant vector database storage
+qdrant_storage/
